@@ -1,0 +1,50 @@
+## About Me!
+
+::: incremental
+- 👩‍🎓 Third Year PhD Candidate in Econometrics & Business Statistics, supervised by, and affiliated with: 
+  - [Prof. Rob Hyndman](https://robjhyndman.com), EBS
+    - [NUMBATs](https://numbat.space/about.html), Non-Uniform Monash *Business Analytics* Team
+  - [A.Prof Simon Angus](https://research.monash.edu/en/persons/simon-angus), Economics
+    - [SoDa Laboratories](https://www.monash.edu/business/impact-labs/soda-labs/about-us), *alternative data for social science insights*
+  - [Dr. Sarah Goodwin](https://research.monash.edu/en/persons/sarah-goodwin), Human Centered Computing
+    - [Embodied Visualisation group](https://www.monash.edu/it/hcc/embodied-visualisation), *immersive technologies for data analysis*
+  <!-- - Also supported by [Monash Data Futures Institute](https://www.monash.edu/data-futures-institute) -->
+::: 
+
+
+## About Me!
+
+::: fragment
+- 💱 Previously: 
+  - Economics at the University of Melbourne
+  - Tutoring undergraduate economics
+  - Assisting with data collection & curation for empirical economists
+:::
+::: fragment
+- 👩🏻 Outside of Research:
+  - 🧗🏻‍♀️ Climbing, 🧘🏻‍♀️ Yoga, 👩🏻‍🍳 Foodie
+  - 🎙️ Regular host on [The Random Sample](https://www.therandomsample.com.au/podcasts/) podcast
+:::
+
+## About Me!
+
+::: incremental
+- 📊 Research Interests
+  - 🌰 Statistically sound, well-documented and low-friction adaptation of "alternative" data for research purposes.
+  - 🖇️ Data provenance models that capture both **statistical** decisions, and **computational** implementation details.
+- 👩‍🎓 Thesis: **Unified Statistical Principles and Computational Tools for Data Harmonisation and Provenance**
+  - Conceptual framework for redistributing numeric mass between categories in related statisical classifications
+  - Software implementation in R
+:::
+
+## About Me!
+
+::: incremental
+- 📋 Collaborative work:
+  -  Review of Data Provenance approaches across CS and Statistics
+  -  Adapting web-scraped retail product & price data for public health research
+  -  Human in the Loop verification for data extraction from spreadsheets using Generative AI
+- 💡 Reproducible and reusable research and teaching tools:
+  - [learnr.academy](http://learnr.academy/modules/basics.html) built on Quarto & webR
+  - [Reproducibility for Economists](https://cynthiahqy.github.io/monash-quarto-aea/) also with Quarto
+:::

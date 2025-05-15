@@ -1,0 +1,23 @@
+## About Me!
+
+::: incremental
+- 👩‍🎓 Final Year PhD Candidate, supervised by, and affiliated with: 
+  - [Prof. Rob Hyndman](https://robjhyndman.com), Econometrics & Business Statistics
+    - [NUMBATs](https://numbat.space/about.html), Non-Uniform Monash *Business Analytics* Team
+  - [Prof Simon Angus](https://research.monash.edu/en/persons/simon-angus), Economics
+    - [SoDa Laboratories](https://www.monash.edu/business/impact-labs/soda-labs/about-us), *alternative data for social science insights*
+  - [Dr. Sarah Goodwin](https://research.monash.edu/en/persons/sarah-goodwin), Human Centered Computing
+    - [Embodied Visualisation group](https://www.monash.edu/it/hcc/embodied-visualisation), *immersive technologies for data analysis*
+- 💱 Previously: Economics at Unimelb
+  <!-- - Also supported by [Monash Data Futures Institute](https://www.monash.edu/data-futures-institute) -->
+:::
+
+## About Me!
+
+::: incremental
+- 👩‍🎓 Thesis: _Unified Statistical Principles and Computational Tools for Data Harmonisation and Provenance_
+  - 🖇️ Data Wrangling and Provenance approaches that incorporate statistical and computational workflow considerations.
+  - 🌰 Statistically sound, well-documented and low-friction adaptation of "alternative" data for empirical research.
+  - 🤔 Provenance (approaches, tools and concepts) Across Domains
+  - 🔀 **Unified Framework for recoding and redistributing numeric data between categories**
+:::

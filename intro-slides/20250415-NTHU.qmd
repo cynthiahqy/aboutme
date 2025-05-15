@@ -1,0 +1,70 @@
+<!-- talk_NTHU-PRITES-20250415 -->
+
+## About Me!
+
+::: fragment
+- 👩‍🎓 Research Fellow supervised by:
+  - [_Prof. Rob Hyndman_](https://robjhyndman.com), Econometrics & Business Statistics
+    - [NUMBATs](https://numbat.space/about.html), Non-Uniform Monash *Business Analytics* Team
+:::
+::: fragment
+- 👩‍🎓 Thesis: **Unified Statistical Principles and Computational Tools for Data Harmonisation and Provenance**, with co-supervisors:
+  - [_A.Prof Simon Angus_](https://research.monash.edu/en/persons/simon-angus), Economics
+    - [SoDa Laboratories](https://www.monash.edu/business/impact-labs/soda-labs/about-us), *alternative data for social science insights*
+  - [_Dr. Sarah Goodwin_](https://research.monash.edu/en/persons/sarah-goodwin), Human Centered Computing
+    - [Embodied Visualisation group](https://www.monash.edu/it/hcc/embodied-visualisation), *immersive technologies for data analysis*
+  <!-- - Also supported by [Monash Data Futures Institute](https://www.monash.edu/data-futures-institute) -->
+::: 
+
+## About Me!
+
+::: fragment
+- 💱 Previously: 
+  - Economics at the University of Melbourne
+  - Data collection & curation for empirical economists
+:::
+::: fragment
+- 👩🏻 Outside Research:
+  - 🧗🏻‍♀️ Climbing
+  - 🧘🏻‍♀️ Yoga
+  - 🤸🏻‍♀️ Aerial silks & Acroyoga
+  - 👩🏻‍🍳 Foodie
+:::
+
+## About Me!
+
+::: incremental
+- 📊 Research Interests
+  - 🌰 Statistically sound, well-documented and low-friction adaptation of "alternative" data for empirical research.
+  - 🤖 Leveraging LLMs and genAI in data wrangling and preparation
+  - 🖇️ Data provenance approaches that capture both **statistical** decisions, and **computational** implementation details.
+- 🤹🏻‍♀️ Extra-Curricular
+  - 🎙️ Regular host on [The Random Sample](https://www.therandomsample.com.au/podcasts/) podcast
+  - 💡 Research productivity and teaching with Quarto and git
+    <!-- - [R basics with startR](https://startr.numbat.space) built on Quarto & webR
+    - [Reproducibile Research for Economists](https://cynthiahqy.github.io/monash-quarto-aea/) also with Quarto -->
+:::
+
+## About Me!
+
+::: incremental
+- 👩‍🎓 Recent work:
+  - 🔀 Recoding and redistributing numeric data between classifications
+      - 'Crossmaps' framework & 'xmap' R package
+  - 🔎 Extracting data from spreadsheets
+      - 'TableCanoniser' system (CHI25 honorable mention)
+  - ✅ **Data quality of web-response datasets ('PRITES')**
+      - web-scraped retail alcohol data for public health research
+:::
+
+<!-- ## About Me!
+
+::: incremental
+- 📋 Collaborative work:
+  -  Review of Data Provenance approaches across CS and Statistics
+  -  Adapting web-scraped retail product & price data for public health research
+  -  Human in the Loop verification for data extraction from spreadsheets using Generative AI
+- 💡 Reproducible and reusable research and teaching tools:
+  
+::: -->
+
