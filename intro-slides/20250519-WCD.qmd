@@ -1,0 +1,28 @@
+# About Me!
+
+## Who am I?
+
+::: fragment
+- 👩‍🎓 Research Fellow in EBS supervised by [_Prof. Rob Hyndman_](https://robjhyndman.com)
+- 🎙️ Regular host on [The Random Sample](https://www.therandomsample.com.au/podcasts/) podcast
+- 👩🏻‍🏫 Ex-Tutor for Wild Caught Data (2020)
+:::
+::: fragment
+- 💱 Previously:
+  - Economics at the University of Melbourne
+  - Catching wild data for empirical researchers:
+      - wikipedia entries, archival magazines, trade databases, satellite images, online retail prices...
+::: 
+
+## What do I work on?
+
+::: incremental
+- 👩‍🎓 Thesis: **Unified Statistical Principles and Computational Tools for Data Harmonisation and Provenance**, supervised by:
+  - [_Prof. Rob Hyndman_ (EBS, MBUS)](https://robjhyndman.com), [_Prof. Simon Angus_ (Econ, MBUS)](https://research.monash.edu/en/persons/simon-angus), and [_Dr. Sarah Goodwin_ (HCC, FIT)](https://research.monash.edu/en/persons/sarah-goodwin) 
+:::
+::: incremental
+- 📊 Research Interests
+  - 🌰 Designing tools and workflows for wild caught data!
+  - 🤖 Leveraging LLMs and genAI for data wrangling and cleaning
+    - 🖇️ using LLMs to correct manual data entry errors -- Current MBAT research internship!
+:::
