@@ -8,7 +8,7 @@
     - [NUMBATs](https://numbat.space/about.html), Non-Uniform Monash *Business Analytics* Team
 :::
 ::: fragment
-- 👩‍🎓 Thesis: **Unified Statistical Principles and Computational Tools for Data Harmonisation and Provenance**, with co-supervisors:
+- 👩‍🎓 Thesis: **Unified Statistical Principles and Computational Tools for Complex Data**, with co-supervisors:
   - [_A.Prof Simon Angus_](https://research.monash.edu/en/persons/simon-angus), Economics
     - [SoDa Laboratories](https://www.monash.edu/business/impact-labs/soda-labs/about-us), *alternative data for social science insights*
   - [_Dr. Sarah Goodwin_](https://research.monash.edu/en/persons/sarah-goodwin), Human Centered Computing
