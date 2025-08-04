@@ -1,0 +1,21 @@
+## About Me!
+
+::: fragment
+- 🥤 Previous SoDa RA!
+- 📊 Research Interests
+  - 🌰 Statistically sound, well-documented and low-friction adaptation of "alternative" data for empirical research.
+  - 🤖 Leveraging LLMs and genAI in data wrangling and preparation
+  - 🖇️ Data provenance approaches that capture both **conceptual** & **statistical** decisions, and **computational** implementation details.
+::: 
+
+## About Me!
+
+::: incremental
+- 👩‍🎓 Recent work:
+  - 🔀 Recoding and redistributing numeric data between classifications
+      - 'Crossmaps' framework & 'xmap' R package
+  - 🔎 Extracting data from spreadsheets
+      - 'TableCanoniser' system (CHI25 honorable mention)
+  - ✅ **Data quality of web-response datasets ('PRITES')**
+      - web-scraped retail alcohol data for public health research
+:::
